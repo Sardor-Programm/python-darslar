@@ -28,8 +28,7 @@
 
 
 # odamlar = ["Sardor","Sayyod","Kamron","Farhod","Kamol"]
-# for odam in odamlar:
-#     print(f"Salom {odam} qandaysan")
+# for odam in odamlar:    # print(f"Salom {odam} qandaysan")
 
 # Toq sonlar ro'yxati 
 
